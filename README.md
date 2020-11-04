@@ -7,6 +7,8 @@ Implementation of Neural Style Transfer algorithm as proposed by Leon Gatys et a
 The paper outlines an algorithm for merging the content of one image with the style of another image using convolutional neural networks (CNN). Below is an example that reimagines a photograph of Erykah Badu in the style of Pablo Picasso using a pretrained VGG19 CNN network:
 
 
+## [View the Jupyter Notebook using nbviewer](https://nbviewer.jupyter.org/github/Bashkeel/neural-style-transfer/blob/main/Neural%20Style%20Transfer.ipynb)
+
 ---
 
 <center>
